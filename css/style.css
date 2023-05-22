@@ -38,3 +38,8 @@ ul {
 .temperature {
   font-size: 40px;
 }
+.link {
+  text-align: center;
+  font-size: 15px;
+  margin-left: 400px;
+}
